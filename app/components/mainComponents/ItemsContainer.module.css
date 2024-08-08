@@ -29,8 +29,11 @@
 }
 
 @media (max-width: 1200px) {
+  .itemsContainer {
+    gap: 20px 40px;
+  }
   .itemBox {
-    width: 150px;
+    width: 120px;
   }
 
   .image {
