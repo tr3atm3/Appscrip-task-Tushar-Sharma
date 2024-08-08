@@ -87,36 +87,42 @@ export default function Footer() {
               alt="Image of gpay"
               width={56}
               height={35}
+              className={styles.payIcons}
             />
             <Image
               src="/Group 136190.png"
               alt="Image of mastercard"
               width={56}
               height={35}
+              className={styles.payIcons}
             />
             <Image
               src="/Group 136192.png"
               alt="Image of paypal"
               width={56}
               height={35}
+              className={styles.payIcons}
             />
             <Image
               src="/Group 136193.png"
               alt="Image of amex pay"
               width={56}
               height={35}
+              className={styles.payIcons}
             />
             <Image
               src="/Group 136194.png"
               alt="Image of apple pay"
               width={56}
               height={35}
+              className={styles.payIcons}
             />
             <Image
               src="/Group 136195.png"
               alt="Image of Pay"
               width={56}
               height={35}
+              className={styles.payIcons}
             />
           </div>
         </div>

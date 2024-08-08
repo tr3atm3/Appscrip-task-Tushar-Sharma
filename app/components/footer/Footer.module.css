@@ -194,4 +194,8 @@
   .copyright {
     margin-top: 18px;
   }
+  .payIcons {
+    width: 40px;
+    height: 25px;
+  }
 }
