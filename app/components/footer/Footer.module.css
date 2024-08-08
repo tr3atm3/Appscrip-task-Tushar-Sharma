@@ -31,7 +31,7 @@
 }
 
 .emailInput {
-  width: 50%;
+  width: 45%;
   max-width: 384px;
   /* height: 47px; */
   padding: 14px 24px;
@@ -157,6 +157,12 @@
   }
   .bottomRightFooter {
     margin: 0;
+  }
+
+  .emailInput {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
   }
   .subscribeBtn {
     font-size: 10px;
